@@ -1,2 +1,2 @@
-# WikiRevertTypes
-Identify different kinds of reverts in Wikipedia edit history
+# WikiRevertPatterns
+Identify different kinds and patterns of reverts in Wikipedia edit history
